@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+.beads/
+build/
+local.properties
+*.iml
+app/build/
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
